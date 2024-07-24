@@ -1,6 +1,6 @@
 # E-Commerce Application
 
-Welcome to our E-Commerce Application! This is a full-stack project built using React for the frontend, Java Spring Boot for the backend, and MySQL for the database.
+E-Commerce Application! This is a full-stack project built using React for the frontend, Java Spring Boot for the backend, and MySQL for the database.
 
 ## Description
 
